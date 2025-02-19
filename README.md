@@ -17,7 +17,7 @@ Resumo do que aprendi durante o lab:
 - [Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure]()
 
 ```json
-
+/subscriptions/f5f6088e-679a-4fc3-9a5d-600dcca616e6/resourcegroups/AZ-900_Lab_DIO/providers/Microsoft.Compute/virtualMachines/machine01
 ```
 
 ##
